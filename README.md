@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gmihaylov
+- 👋 Hi, I’m George
 - 👀 I’m SuiteScript Developer since 2016
 
 <!---
