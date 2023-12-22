@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmihaylov
-- 👀 I’m interested in SuiteScript
+- 👀 I’m SuiteScript Developer since 2016
 
 <!---
 gmihaylov/gmihaylov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
