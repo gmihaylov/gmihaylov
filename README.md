@@ -1,5 +1,9 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="VIM :) with YouCompleteMe" />
+</h1>
+
 ## Hello 👋
-I'm George, a SuiteScript developer from Bulgaria.
+I'm George, a SuiteScript Developer from Varna, Bulgaria.
 
 ## My NetSuite Skills
 - 📜 SuiteScript 1.0, SuiteScript 2.x, SuiteScript 2.1, SuiteFlow
@@ -25,7 +29,7 @@ SuiteApp to SuiteApp Marketplace
 - ⌨️ JavaScript, NodeJS, PHP, C#, MySQL, SQL, Vim :)
 - 🖱 Windows / Linux Power User & Administrator
 
-# My IDEs
+# IDEs
 - Vim :)
 - Webstorm
 - Visual Studio
