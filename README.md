@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" alt="VIM :) with YouCompleteMe" />
+  <img src="https://github.com/gmihaylov/gmihaylov/blob/main/vim.gif" alt="VIM :) with YouCompleteMe" />
 </h1>
 
 ## Hello 👋
