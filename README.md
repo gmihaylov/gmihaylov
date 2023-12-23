@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="VIM :) with YouCompleteMe" />
+  <img src="" alt="VIM :) with YouCompleteMe" />
 </h1>
 
 ## Hello 👋
