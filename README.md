@@ -26,7 +26,7 @@ SuiteApp to SuiteApp Marketplace
 - 📕 CSV, JSON, XML
 - ⚱️ Postman, Git, Jira
 - 🧷 HTML, CSS, jQuery, Bootstrap
-- ⌨️ JavaScript, NodeJS, PHP, C#, MySQL, SQL, Vim :)
+- ⌨️ JavaScript, NodeJS, PHP, C#, MySQL, SQL
 - 🖱 Windows / Linux Power User & Administrator
 
 # IDEs
