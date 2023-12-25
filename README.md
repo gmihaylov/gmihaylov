@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/gmihaylov/gmihaylov/blob/main/vim-suitescript.gif" alt="Editing SuiteScript with VIM" style="width: 100%"/>
-</h1>
+</div>
 
 ## Hello 👋
 I'm George, a SuiteScript Developer from Varna, Bulgaria.
