@@ -7,6 +7,7 @@ I'm George, a SuiteScript Developer from Varna, Bulgaria.
 
 ## My NetSuite Skills
 - 📜 SuiteScript 1.0, SuiteScript 2.x, SuiteScript 2.1, SuiteFlow
+- 📜 Refactoring 1.0 SuiteScripts to 2.x / 2.1
 - 📃 Suitelets, MR Scripts, Scheduled Scripts, User Event Scripts, Client Scripts
 Scripts, Portlets, Restlets, SuiteFlow
 - 🏗 Integrating 3rd party apps using SuiteScript
