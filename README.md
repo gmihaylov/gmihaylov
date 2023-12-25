@@ -21,6 +21,7 @@ SuiteApp to SuiteApp Marketplace
 - 👁️ SFTP module integration
 - 📊 Custom Reports
 - 📄 Creating multi-lingual, multi-subsidiary and multi-currency Advanced PDF/HTML templates
+- 🔩 NetSuite Frameworks: SuiteCloud Development Framework, Tax Reporting Framework, Electronic Bank Payments
 + more
 
 ## My Other Skills
