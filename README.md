@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://github.com/gmihaylov/gmihaylov/blob/main/vim-suitescript.gif" alt="Editing SuiteScript with VIM" />
+<div align="center">
+  <img src="https://github.com/gmihaylov/gmihaylov/blob/main/vim-suitescript.gif" alt="Editing SuiteScript with VIM" style="width: 100%"/>
 </h1>
 
 ## Hello 👋
