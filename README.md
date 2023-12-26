@@ -33,12 +33,12 @@ SuiteApp to SuiteApp Marketplace
 - 🖱 Windows / Linux Power User & Administrator
 
 # IDEs
-- Vim :)
 - Webstorm
-- Visual Studio
-- Sublimetext
+- VS Code
+- SublimeText
 - Notepad++
 - Nano
+- Vim :)
 
 ## Contact
 - mihaylov[at]gmail[.]com
