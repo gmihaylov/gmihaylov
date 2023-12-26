@@ -26,6 +26,7 @@ SuiteApp to SuiteApp Marketplace
 
 ## My Other Skills
 - 📕 CSV, JSON, XML
+- 🗒 Handlebars, FreeMarker
 - ⚱️ Postman, Git, Jira
 - 🧷 HTML, CSS, jQuery, Bootstrap
 - ⌨️ JavaScript, NodeJS, PHP, C#, MySQL, SQL
